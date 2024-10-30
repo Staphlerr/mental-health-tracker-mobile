@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mental_health_tracker
 
 A new Flutter project.
@@ -17,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # mental-health-tracker-mobile
->>>>>>> 09c9d76aae8cd358c4678c5a8053440c4c1db644
+
