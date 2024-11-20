@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # mental-health-tracker-mobile
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/abe130ba-5dcb-4d9e-ac5a-2192e002d437/branches/master/badge)](https://appcenter.ms)
+https://install.appcenter.ms/orgs/Belva-Ghani-Abhinaya/apps/Mental-Health-Tracker/releases/1
